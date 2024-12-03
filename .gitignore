@@ -1,0 +1,40 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids/
+*.pid
+*.pid.lock
+
+# Dependency directories
+bower_components/
+
+# Debugging files
+*.swp
+*.swo
+*.bak
+
+# IDE specific files
+.vscode/
+.idea/
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# Coverage files
+coverage/
+
+# Build output
+dist/
+build/
